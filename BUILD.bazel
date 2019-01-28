@@ -1,0 +1,6 @@
+filegroup(
+    name = "README",
+    srcs = [
+        "README.md",
+    ],
+)
