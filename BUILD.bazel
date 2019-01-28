@@ -3,4 +3,5 @@ cc_library(
 	name = "dummy",
 	srcs = ["dummy.c"],
 	hdrs = ["dummy.h"],
+    visibility = ["//visibility:public"],
 )
